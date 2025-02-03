@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m Nguyen Ba Thong!  <br><br>## 🚀 About Me  <br>I’m currently a student at HUS-VNU (Hanoi University of Science) with a strong passion for Data Engineering. I love working with big data, databases, and cloud computing... and I’m constantly learning new technologies to build scalable data solutions.  <br><br>## 📫 How to Reach Me  <br>- 📧 Email: nguyennbaathongg@gmai.com  <br>- 🔗 LinkedIn: [linkedin.com/in/bathong](https://www.linkedin.com/in/bathong)  <br>- 🐙 GitHub: [github.com/nguyenbathongg](https://github.com/nguyenbathongg)  <br>
+# 👋 Hi, I’m Nguyen Ba Thong!  <br><br>## 🚀 About Me  <br>I’m currently a student at HUS-VNU (Hanoi University of Science) and have a passion for programming. I enjoy working with big data, databases and cloud computing, and am always exploring and learning new technologies to develop effective data solutions.  <br><br>## 📫 How to Reach Me  <br>- 📧 Email: nguyennbaathongg@gmai.com  <br>- 🔗 LinkedIn: [linkedin.com/in/bathong](https://www.linkedin.com/in/bathong)  <br>- 🐙 GitHub: [github.com/nguyenbathongg](https://github.com/nguyenbathongg)  <br>
 
 
 ## 🌐 Socials:
